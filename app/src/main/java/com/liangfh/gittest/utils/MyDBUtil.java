@@ -5,6 +5,6 @@ package com.liangfh.gittest.utils;
  */
 public class MyDBUtil {
     public String getValue() {
-        return null;
+        return "hello from MyDbUtil class ";
     }
 }
